@@ -1,5 +1,6 @@
 House Price Prediction
-Overview
+
+*Overview*
 
 This project predicts house prices using machine learning techniques. It analyzes historical housing data, identifies important features affecting prices, and builds a regression model to estimate house prices accurately.
 
